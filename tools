@@ -38,8 +38,8 @@ exit
 figlet Mr. AxE | lolcat
 echo " "
 echo -e  "_____________________________________________________________"
-echo -e  "Tools       : Mr. AxE $white         "
-echo -e  "Creadby  : Adikara830 $white   "
+echo -e  "Tools               : Mr. AxE $white      "
+echo -e  "Creadby             : Adikaraalf $white   "
 echo -e  "Follow Me In Github : Adikaranrm $white "
 echo -e  "_____________________________________________________________"
 echo " "
